@@ -5,7 +5,7 @@ A simple python GUI to download YouTube videos. Made with tkinter and pytube.
 ![](https://img.shields.io/badge/py-pytube-red)
 
 ### Download File
-The file saves to the current directory.
+The file saves to the current directory. The download file is the highest resolution video with sound available. 
 
 ## Demo Image
 <img src=https://github.com/CurstinJR/YT_Video_Downloader/blob/master/demo_images/demo1.png alt="demo_python_yt_video_downloader"></img>
